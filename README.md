@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year UT CS student who excited to apply learned knowledge into real world projects !
+I am a second-year UT CS student who is excited to apply learned knowledge to real-world projects!
 
 
 ## 🌐 Socials:
