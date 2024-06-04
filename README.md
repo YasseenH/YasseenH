@@ -2,8 +2,8 @@
 I am a second-year UT CS student excited to apply learned knowledge to real-world projects!
 
 ## 🚀 What I am Up To:
-Creating projects using Python
-Exploring and learning about SpringBoot Applications
+- Creating projects using Python
+- Exploring and learning about SpringBoot Applications
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yasseenhilal) 
