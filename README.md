@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year UT CS student excited to apply learned knowledge to real-world projects!
+👋 Hi, I'm Yasseen Hilal, a computer science student at the University of Texas at Austin, College of Natural Sciences. Passionate about STEM and driven to make a positive impact, I actively seek out diverse experiences to expand my knowledge and skills.
 
 ## 🚀 What I am Up To:
 - Creating projects using Python
@@ -8,6 +8,8 @@ I am a second-year UT CS student excited to apply learned knowledge to real-worl
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yasseenhilal) 
+
+I'm always eager to collaborate on exciting projects and contribute to open-source communities. Feel free to reach out or check out my repositories to see what I'm working on!
 
 # 💻 Tech Stack:
 - ## 👨🏻‍💻 Languages:
