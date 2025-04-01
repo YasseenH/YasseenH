@@ -4,7 +4,7 @@
 ## 🚀 What I am Up To:
 - Creating projects using Python
 - Exploring and learning about full-stack applications
-- Implementing and understanding ML Concepts in applicable projects
+- Implementing and understanding ML concepts in applicable projects
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yasseenhilal) 
